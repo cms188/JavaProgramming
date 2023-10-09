@@ -1,0 +1,10 @@
+package javaweek5;
+
+public class USBMemTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
