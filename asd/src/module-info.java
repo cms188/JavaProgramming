@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author deser
- *
- */
-module asd {
-}
